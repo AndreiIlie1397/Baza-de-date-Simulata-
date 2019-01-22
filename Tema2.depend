@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484813775 source:c:\users\andrei\desktop\ilieconstantinandrei\programarea calculatoarelor\tema2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
